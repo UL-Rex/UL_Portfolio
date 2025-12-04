@@ -427,7 +427,7 @@ section {
     background: var(--accent-gradient);
     position: relative;
     overflow: hidden;
-    background-image: url(f7084e17-c322-43e6-a64b-5b5711ae6636.jpg);
+    background-image: url(UL.png);
     background-size: cover;
 }
 
@@ -997,4 +997,5 @@ footer {
 @keyframes loadingPulse {
     0%, 100% { opacity: 0.3; }
     50% { opacity: 1; }
+
 }
